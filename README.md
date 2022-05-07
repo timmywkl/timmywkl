@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @timmywkl
+- 👀 I’m interested in treasury, accounting & finance
+- 🌱 I’m currently learning data analytics
+- 💞️ I’m looking to collaborate on data science and machine learning projects
